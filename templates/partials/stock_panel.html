@@ -1,0 +1,71 @@
+<div class="stock-panels" id="stock-panels">
+  {% for stock in stocks %}
+  <div class="stock-panel {% if stock.ticker == active %}active{% endif %}"
+       id="panel-{{ stock.ticker }}"
+       data-ticker="{{ stock.ticker }}">
+
+    <section class="info-section">
+      <div class="info-header">
+        <img class="info-logo" src="{{ stock.logo_url }}" alt="{{ stock.ticker }}"
+             data-fallback1="{{ stock.fallback_logo_url or '' }}"
+             data-fallback2="/static/default-logo.png"
+             onerror="handleLogoError(this)">
+        <div>
+          <h1 class="info-company-name">{{ stock.name }}</h1>
+          <span class="info-ticker-badge">{{ stock.ticker }}</span>
+        </div>
+      </div>
+      <div class="info-grid">
+        <div class="info-card">
+          <span class="info-card-label">Current Price</span>
+          <span class="info-card-value">{{ stock.price | fmt_price }}</span>
+        </div>
+        <div class="info-card">
+          <span class="info-card-label">Market Cap</span>
+          <span class="info-card-value">{{ stock.market_cap | fmt_cap }}</span>
+        </div>
+        <div class="info-card">
+          <span class="info-card-label">P/E Ratio</span>
+          <span class="info-card-value">{{ stock.pe_ratio | fmt_pe }}</span>
+        </div>
+        <div class="info-card">
+          <span class="info-card-label">52-Week High</span>
+          <span class="info-card-value">{{ stock.week_high | fmt_price }}</span>
+        </div>
+        <div class="info-card">
+          <span class="info-card-label">52-Week Low</span>
+          <span class="info-card-value">{{ stock.week_low | fmt_price }}</span>
+        </div>
+        <div class="info-card">
+          <span class="info-card-label">Sector</span>
+          <span class="info-card-value">{{ stock.sector }}</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="chart-section">
+      <div class="chart-header">
+        <div class="chart-tabs" role="tablist">
+          <button class="chart-tab active" role="tab"
+                  onclick="switchChartPeriod(this, '{{ stock.ticker }}', 'today')">
+            Today
+          </button>
+          <button class="chart-tab" role="tab"
+                  onclick="switchChartPeriod(this, '{{ stock.ticker }}', 'week')">
+            Last Week
+          </button>
+          <button class="chart-tab" role="tab"
+                  onclick="switchChartPeriod(this, '{{ stock.ticker }}', 'month')">
+            Last Month
+          </button>
+        </div>
+        <span class="chart-date-range" id="chart-title-{{ stock.ticker }}"></span>
+      </div>
+      <div class="chart-container">
+        <canvas id="chart-{{ stock.ticker }}"></canvas>
+      </div>
+    </section>
+
+  </div>
+  {% endfor %}
+</div>

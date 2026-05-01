@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kahuna</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js" defer></script>
+  <script>
+    window.KAHUNA = {
+      sp500:  {{ sp500  | tojson }},
+      stocks: {{ stocks | tojson }},
+      active: {{ active | tojson }}
+    };
+  </script>
+  <script src="{{ url_for('static', filename='js/logos.js') }}" defer></script>
+  <script src="{{ url_for('static', filename='js/charts.js') }}" defer></script>
+  <script src="{{ url_for('static', filename='js/tabs.js') }}" defer></script>
+  <script src="{{ url_for('static', filename='js/autocomplete.js') }}" defer></script>
+  <script src="{{ url_for('static', filename='js/main.js') }}" defer></script>
+</head>
+<body>
+
+  <nav class="navbar">
+    <span class="navbar-title">Kahuna</span>
+  </nav>
+
+  <div class="content-wrapper">
+    {% include 'partials/sidebar.html' %}
+
+    <main class="main-content {% if stocks %}has-stocks{% endif %}" id="main-content">
+      {% include 'partials/search_form.html' %}
+      {% include 'partials/stock_panel.html' %}
+    </main>
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,2517 @@
+[
+  {
+    "ticker": "MMM",
+    "name": "3M",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MMM?format=png"
+  },
+  {
+    "ticker": "AOS",
+    "name": "A. O. Smith",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AOS?format=png"
+  },
+  {
+    "ticker": "ABT",
+    "name": "Abbott Laboratories",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ABT?format=png"
+  },
+  {
+    "ticker": "ABBV",
+    "name": "AbbVie",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ABBV?format=png"
+  },
+  {
+    "ticker": "ACN",
+    "name": "Accenture",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ACN?format=png"
+  },
+  {
+    "ticker": "ADBE",
+    "name": "Adobe Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ADBE?format=png"
+  },
+  {
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AMD?format=png"
+  },
+  {
+    "ticker": "AES",
+    "name": "AES Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AES?format=png"
+  },
+  {
+    "ticker": "AFL",
+    "name": "Aflac",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AFL?format=png"
+  },
+  {
+    "ticker": "A",
+    "name": "Agilent Technologies",
+    "logo_url": "https://assets.parqet.com/logos/symbol/A?format=png"
+  },
+  {
+    "ticker": "APD",
+    "name": "Air Products",
+    "logo_url": "https://assets.parqet.com/logos/symbol/APD?format=png"
+  },
+  {
+    "ticker": "ABNB",
+    "name": "Airbnb",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ABNB?format=png"
+  },
+  {
+    "ticker": "AKAM",
+    "name": "Akamai Technologies",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AKAM?format=png"
+  },
+  {
+    "ticker": "ALB",
+    "name": "Albemarle Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ALB?format=png"
+  },
+  {
+    "ticker": "ARE",
+    "name": "Alexandria Real Estate Equities",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ARE?format=png"
+  },
+  {
+    "ticker": "ALGN",
+    "name": "Align Technology",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ALGN?format=png"
+  },
+  {
+    "ticker": "ALLE",
+    "name": "Allegion",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ALLE?format=png"
+  },
+  {
+    "ticker": "LNT",
+    "name": "Alliant Energy",
+    "logo_url": "https://assets.parqet.com/logos/symbol/LNT?format=png"
+  },
+  {
+    "ticker": "ALL",
+    "name": "Allstate",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ALL?format=png"
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc. (Class A)",
+    "logo_url": "https://assets.parqet.com/logos/symbol/GOOGL?format=png"
+  },
+  {
+    "ticker": "GOOG",
+    "name": "Alphabet Inc. (Class C)",
+    "logo_url": "https://assets.parqet.com/logos/symbol/GOOG?format=png"
+  },
+  {
+    "ticker": "MO",
+    "name": "Altria",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MO?format=png"
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AMZN?format=png"
+  },
+  {
+    "ticker": "AMCR",
+    "name": "Amcor",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AMCR?format=png"
+  },
+  {
+    "ticker": "AEE",
+    "name": "Ameren",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AEE?format=png"
+  },
+  {
+    "ticker": "AEP",
+    "name": "American Electric Power",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AEP?format=png"
+  },
+  {
+    "ticker": "AXP",
+    "name": "American Express",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AXP?format=png"
+  },
+  {
+    "ticker": "AIG",
+    "name": "American International Group",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AIG?format=png"
+  },
+  {
+    "ticker": "AMT",
+    "name": "American Tower",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AMT?format=png"
+  },
+  {
+    "ticker": "AWK",
+    "name": "American Water Works",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AWK?format=png"
+  },
+  {
+    "ticker": "AMP",
+    "name": "Ameriprise Financial",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AMP?format=png"
+  },
+  {
+    "ticker": "AME",
+    "name": "Ametek",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AME?format=png"
+  },
+  {
+    "ticker": "AMGN",
+    "name": "Amgen",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AMGN?format=png"
+  },
+  {
+    "ticker": "APH",
+    "name": "Amphenol",
+    "logo_url": "https://assets.parqet.com/logos/symbol/APH?format=png"
+  },
+  {
+    "ticker": "ADI",
+    "name": "Analog Devices",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ADI?format=png"
+  },
+  {
+    "ticker": "AON",
+    "name": "Aon plc",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AON?format=png"
+  },
+  {
+    "ticker": "APA",
+    "name": "APA Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/APA?format=png"
+  },
+  {
+    "ticker": "APO",
+    "name": "Apollo Global Management",
+    "logo_url": "https://assets.parqet.com/logos/symbol/APO?format=png"
+  },
+  {
+    "ticker": "AAPL",
+    "name": "Apple Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AAPL?format=png"
+  },
+  {
+    "ticker": "AMAT",
+    "name": "Applied Materials",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AMAT?format=png"
+  },
+  {
+    "ticker": "APP",
+    "name": "AppLovin",
+    "logo_url": "https://assets.parqet.com/logos/symbol/APP?format=png"
+  },
+  {
+    "ticker": "APTV",
+    "name": "Aptiv",
+    "logo_url": "https://assets.parqet.com/logos/symbol/APTV?format=png"
+  },
+  {
+    "ticker": "ACGL",
+    "name": "Arch Capital Group",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ACGL?format=png"
+  },
+  {
+    "ticker": "ADM",
+    "name": "Archer Daniels Midland",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ADM?format=png"
+  },
+  {
+    "ticker": "ARES",
+    "name": "Ares Management",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ARES?format=png"
+  },
+  {
+    "ticker": "ANET",
+    "name": "Arista Networks",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ANET?format=png"
+  },
+  {
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AJG?format=png"
+  },
+  {
+    "ticker": "AIZ",
+    "name": "Assurant",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AIZ?format=png"
+  },
+  {
+    "ticker": "T",
+    "name": "AT&T",
+    "logo_url": "https://assets.parqet.com/logos/symbol/T?format=png"
+  },
+  {
+    "ticker": "ATO",
+    "name": "Atmos Energy",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ATO?format=png"
+  },
+  {
+    "ticker": "ADSK",
+    "name": "Autodesk",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ADSK?format=png"
+  },
+  {
+    "ticker": "ADP",
+    "name": "Automatic Data Processing",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ADP?format=png"
+  },
+  {
+    "ticker": "AZO",
+    "name": "AutoZone",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AZO?format=png"
+  },
+  {
+    "ticker": "AVB",
+    "name": "AvalonBay Communities",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AVB?format=png"
+  },
+  {
+    "ticker": "AVY",
+    "name": "Avery Dennison",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AVY?format=png"
+  },
+  {
+    "ticker": "AXON",
+    "name": "Axon Enterprise",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AXON?format=png"
+  },
+  {
+    "ticker": "BKR",
+    "name": "Baker Hughes",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BKR?format=png"
+  },
+  {
+    "ticker": "BALL",
+    "name": "Ball Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BALL?format=png"
+  },
+  {
+    "ticker": "BAC",
+    "name": "Bank of America",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BAC?format=png"
+  },
+  {
+    "ticker": "BAX",
+    "name": "Baxter International",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BAX?format=png"
+  },
+  {
+    "ticker": "BDX",
+    "name": "Becton Dickinson",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BDX?format=png"
+  },
+  {
+    "ticker": "BRK-B",
+    "name": "Berkshire Hathaway",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BRK-B?format=png"
+  },
+  {
+    "ticker": "BBY",
+    "name": "Best Buy",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BBY?format=png"
+  },
+  {
+    "ticker": "TECH",
+    "name": "Bio-Techne",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TECH?format=png"
+  },
+  {
+    "ticker": "BIIB",
+    "name": "Biogen",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BIIB?format=png"
+  },
+  {
+    "ticker": "BLK",
+    "name": "BlackRock",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BLK?format=png"
+  },
+  {
+    "ticker": "BX",
+    "name": "Blackstone Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BX?format=png"
+  },
+  {
+    "ticker": "XYZ",
+    "name": "Block, Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/XYZ?format=png"
+  },
+  {
+    "ticker": "BK",
+    "name": "BNY Mellon",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BK?format=png"
+  },
+  {
+    "ticker": "BA",
+    "name": "Boeing",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BA?format=png"
+  },
+  {
+    "ticker": "BKNG",
+    "name": "Booking Holdings",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BKNG?format=png"
+  },
+  {
+    "ticker": "BSX",
+    "name": "Boston Scientific",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BSX?format=png"
+  },
+  {
+    "ticker": "BMY",
+    "name": "Bristol Myers Squibb",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BMY?format=png"
+  },
+  {
+    "ticker": "AVGO",
+    "name": "Broadcom",
+    "logo_url": "https://assets.parqet.com/logos/symbol/AVGO?format=png"
+  },
+  {
+    "ticker": "BR",
+    "name": "Broadridge Financial Solutions",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BR?format=png"
+  },
+  {
+    "ticker": "BRO",
+    "name": "Brown & Brown",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BRO?format=png"
+  },
+  {
+    "ticker": "BF-B",
+    "name": "Brown\u2013Forman",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BF-B?format=png"
+  },
+  {
+    "ticker": "BLDR",
+    "name": "Builders FirstSource",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BLDR?format=png"
+  },
+  {
+    "ticker": "BG",
+    "name": "Bunge Global",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BG?format=png"
+  },
+  {
+    "ticker": "BXP",
+    "name": "BXP, Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BXP?format=png"
+  },
+  {
+    "ticker": "CHRW",
+    "name": "C.H. Robinson",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CHRW?format=png"
+  },
+  {
+    "ticker": "CDNS",
+    "name": "Cadence Design Systems",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CDNS?format=png"
+  },
+  {
+    "ticker": "CPT",
+    "name": "Camden Property Trust",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CPT?format=png"
+  },
+  {
+    "ticker": "CPB",
+    "name": "Campbell's Company (The)",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CPB?format=png"
+  },
+  {
+    "ticker": "COF",
+    "name": "Capital One",
+    "logo_url": "https://assets.parqet.com/logos/symbol/COF?format=png"
+  },
+  {
+    "ticker": "CAH",
+    "name": "Cardinal Health",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CAH?format=png"
+  },
+  {
+    "ticker": "CCL",
+    "name": "Carnival",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CCL?format=png"
+  },
+  {
+    "ticker": "CARR",
+    "name": "Carrier Global",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CARR?format=png"
+  },
+  {
+    "ticker": "CVNA",
+    "name": "Carvana",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CVNA?format=png"
+  },
+  {
+    "ticker": "CASY",
+    "name": "Casey's",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CASY?format=png"
+  },
+  {
+    "ticker": "CAT",
+    "name": "Caterpillar Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CAT?format=png"
+  },
+  {
+    "ticker": "CBOE",
+    "name": "Cboe Global Markets",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CBOE?format=png"
+  },
+  {
+    "ticker": "CBRE",
+    "name": "CBRE Group",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CBRE?format=png"
+  },
+  {
+    "ticker": "CDW",
+    "name": "CDW Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CDW?format=png"
+  },
+  {
+    "ticker": "COR",
+    "name": "Cencora",
+    "logo_url": "https://assets.parqet.com/logos/symbol/COR?format=png"
+  },
+  {
+    "ticker": "CNC",
+    "name": "Centene Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CNC?format=png"
+  },
+  {
+    "ticker": "CNP",
+    "name": "CenterPoint Energy",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CNP?format=png"
+  },
+  {
+    "ticker": "CF",
+    "name": "CF Industries",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CF?format=png"
+  },
+  {
+    "ticker": "CRL",
+    "name": "Charles River Laboratories",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CRL?format=png"
+  },
+  {
+    "ticker": "SCHW",
+    "name": "Charles Schwab Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SCHW?format=png"
+  },
+  {
+    "ticker": "CHTR",
+    "name": "Charter Communications",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CHTR?format=png"
+  },
+  {
+    "ticker": "CVX",
+    "name": "Chevron Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CVX?format=png"
+  },
+  {
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CMG?format=png"
+  },
+  {
+    "ticker": "CB",
+    "name": "Chubb Limited",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CB?format=png"
+  },
+  {
+    "ticker": "CHD",
+    "name": "Church & Dwight",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CHD?format=png"
+  },
+  {
+    "ticker": "CIEN",
+    "name": "Ciena",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CIEN?format=png"
+  },
+  {
+    "ticker": "CI",
+    "name": "Cigna",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CI?format=png"
+  },
+  {
+    "ticker": "CINF",
+    "name": "Cincinnati Financial",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CINF?format=png"
+  },
+  {
+    "ticker": "CTAS",
+    "name": "Cintas",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CTAS?format=png"
+  },
+  {
+    "ticker": "CSCO",
+    "name": "Cisco",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CSCO?format=png"
+  },
+  {
+    "ticker": "C",
+    "name": "Citigroup",
+    "logo_url": "https://assets.parqet.com/logos/symbol/C?format=png"
+  },
+  {
+    "ticker": "CFG",
+    "name": "Citizens Financial Group",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CFG?format=png"
+  },
+  {
+    "ticker": "CLX",
+    "name": "Clorox",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CLX?format=png"
+  },
+  {
+    "ticker": "CME",
+    "name": "CME Group",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CME?format=png"
+  },
+  {
+    "ticker": "CMS",
+    "name": "CMS Energy",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CMS?format=png"
+  },
+  {
+    "ticker": "KO",
+    "name": "Coca-Cola Company (The)",
+    "logo_url": "https://assets.parqet.com/logos/symbol/KO?format=png"
+  },
+  {
+    "ticker": "CTSH",
+    "name": "Cognizant",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CTSH?format=png"
+  },
+  {
+    "ticker": "COHR",
+    "name": "Coherent Corp.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/COHR?format=png"
+  },
+  {
+    "ticker": "COIN",
+    "name": "Coinbase",
+    "logo_url": "https://assets.parqet.com/logos/symbol/COIN?format=png"
+  },
+  {
+    "ticker": "CL",
+    "name": "Colgate-Palmolive",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CL?format=png"
+  },
+  {
+    "ticker": "CMCSA",
+    "name": "Comcast",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CMCSA?format=png"
+  },
+  {
+    "ticker": "FIX",
+    "name": "Comfort Systems USA",
+    "logo_url": "https://assets.parqet.com/logos/symbol/FIX?format=png"
+  },
+  {
+    "ticker": "CAG",
+    "name": "Conagra Brands",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CAG?format=png"
+  },
+  {
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "logo_url": "https://assets.parqet.com/logos/symbol/COP?format=png"
+  },
+  {
+    "ticker": "ED",
+    "name": "Consolidated Edison",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ED?format=png"
+  },
+  {
+    "ticker": "STZ",
+    "name": "Constellation Brands",
+    "logo_url": "https://assets.parqet.com/logos/symbol/STZ?format=png"
+  },
+  {
+    "ticker": "CEG",
+    "name": "Constellation Energy",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CEG?format=png"
+  },
+  {
+    "ticker": "COO",
+    "name": "Cooper Companies (The)",
+    "logo_url": "https://assets.parqet.com/logos/symbol/COO?format=png"
+  },
+  {
+    "ticker": "CPRT",
+    "name": "Copart",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CPRT?format=png"
+  },
+  {
+    "ticker": "GLW",
+    "name": "Corning Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/GLW?format=png"
+  },
+  {
+    "ticker": "CPAY",
+    "name": "Corpay",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CPAY?format=png"
+  },
+  {
+    "ticker": "CTVA",
+    "name": "Corteva",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CTVA?format=png"
+  },
+  {
+    "ticker": "CSGP",
+    "name": "CoStar Group",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CSGP?format=png"
+  },
+  {
+    "ticker": "COST",
+    "name": "Costco",
+    "logo_url": "https://assets.parqet.com/logos/symbol/COST?format=png"
+  },
+  {
+    "ticker": "CTRA",
+    "name": "Coterra",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CTRA?format=png"
+  },
+  {
+    "ticker": "CRH",
+    "name": "CRH plc",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CRH?format=png"
+  },
+  {
+    "ticker": "CRWD",
+    "name": "CrowdStrike",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CRWD?format=png"
+  },
+  {
+    "ticker": "CCI",
+    "name": "Crown Castle",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CCI?format=png"
+  },
+  {
+    "ticker": "CSX",
+    "name": "CSX Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CSX?format=png"
+  },
+  {
+    "ticker": "CMI",
+    "name": "Cummins",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CMI?format=png"
+  },
+  {
+    "ticker": "CVS",
+    "name": "CVS Health",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CVS?format=png"
+  },
+  {
+    "ticker": "DHR",
+    "name": "Danaher Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DHR?format=png"
+  },
+  {
+    "ticker": "DRI",
+    "name": "Darden Restaurants",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DRI?format=png"
+  },
+  {
+    "ticker": "DDOG",
+    "name": "Datadog",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DDOG?format=png"
+  },
+  {
+    "ticker": "DVA",
+    "name": "DaVita",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DVA?format=png"
+  },
+  {
+    "ticker": "DECK",
+    "name": "Deckers Brands",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DECK?format=png"
+  },
+  {
+    "ticker": "DE",
+    "name": "Deere & Company",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DE?format=png"
+  },
+  {
+    "ticker": "DELL",
+    "name": "Dell Technologies",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DELL?format=png"
+  },
+  {
+    "ticker": "DAL",
+    "name": "Delta Air Lines",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DAL?format=png"
+  },
+  {
+    "ticker": "DVN",
+    "name": "Devon Energy",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DVN?format=png"
+  },
+  {
+    "ticker": "DXCM",
+    "name": "Dexcom",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DXCM?format=png"
+  },
+  {
+    "ticker": "FANG",
+    "name": "Diamondback Energy",
+    "logo_url": "https://assets.parqet.com/logos/symbol/FANG?format=png"
+  },
+  {
+    "ticker": "DLR",
+    "name": "Digital Realty",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DLR?format=png"
+  },
+  {
+    "ticker": "DG",
+    "name": "Dollar General",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DG?format=png"
+  },
+  {
+    "ticker": "DLTR",
+    "name": "Dollar Tree",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DLTR?format=png"
+  },
+  {
+    "ticker": "D",
+    "name": "Dominion Energy",
+    "logo_url": "https://assets.parqet.com/logos/symbol/D?format=png"
+  },
+  {
+    "ticker": "DPZ",
+    "name": "Domino's",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DPZ?format=png"
+  },
+  {
+    "ticker": "DASH",
+    "name": "DoorDash",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DASH?format=png"
+  },
+  {
+    "ticker": "DOV",
+    "name": "Dover Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DOV?format=png"
+  },
+  {
+    "ticker": "DOW",
+    "name": "Dow Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DOW?format=png"
+  },
+  {
+    "ticker": "DHI",
+    "name": "D. R. Horton",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DHI?format=png"
+  },
+  {
+    "ticker": "DTE",
+    "name": "DTE Energy",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DTE?format=png"
+  },
+  {
+    "ticker": "DUK",
+    "name": "Duke Energy",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DUK?format=png"
+  },
+  {
+    "ticker": "DD",
+    "name": "DuPont",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DD?format=png"
+  },
+  {
+    "ticker": "ETN",
+    "name": "Eaton Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ETN?format=png"
+  },
+  {
+    "ticker": "EBAY",
+    "name": "eBay Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/EBAY?format=png"
+  },
+  {
+    "ticker": "SATS",
+    "name": "EchoStar",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SATS?format=png"
+  },
+  {
+    "ticker": "ECL",
+    "name": "Ecolab",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ECL?format=png"
+  },
+  {
+    "ticker": "EIX",
+    "name": "Edison International",
+    "logo_url": "https://assets.parqet.com/logos/symbol/EIX?format=png"
+  },
+  {
+    "ticker": "EW",
+    "name": "Edwards Lifesciences",
+    "logo_url": "https://assets.parqet.com/logos/symbol/EW?format=png"
+  },
+  {
+    "ticker": "EA",
+    "name": "Electronic Arts",
+    "logo_url": "https://assets.parqet.com/logos/symbol/EA?format=png"
+  },
+  {
+    "ticker": "ELV",
+    "name": "Elevance Health",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ELV?format=png"
+  },
+  {
+    "ticker": "EME",
+    "name": "Emcor",
+    "logo_url": "https://assets.parqet.com/logos/symbol/EME?format=png"
+  },
+  {
+    "ticker": "EMR",
+    "name": "Emerson Electric",
+    "logo_url": "https://assets.parqet.com/logos/symbol/EMR?format=png"
+  },
+  {
+    "ticker": "ETR",
+    "name": "Entergy",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ETR?format=png"
+  },
+  {
+    "ticker": "EOG",
+    "name": "EOG Resources",
+    "logo_url": "https://assets.parqet.com/logos/symbol/EOG?format=png"
+  },
+  {
+    "ticker": "EPAM",
+    "name": "EPAM Systems",
+    "logo_url": "https://assets.parqet.com/logos/symbol/EPAM?format=png"
+  },
+  {
+    "ticker": "EQT",
+    "name": "EQT Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/EQT?format=png"
+  },
+  {
+    "ticker": "EFX",
+    "name": "Equifax",
+    "logo_url": "https://assets.parqet.com/logos/symbol/EFX?format=png"
+  },
+  {
+    "ticker": "EQIX",
+    "name": "Equinix",
+    "logo_url": "https://assets.parqet.com/logos/symbol/EQIX?format=png"
+  },
+  {
+    "ticker": "EQR",
+    "name": "Equity Residential",
+    "logo_url": "https://assets.parqet.com/logos/symbol/EQR?format=png"
+  },
+  {
+    "ticker": "ERIE",
+    "name": "Erie Indemnity",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ERIE?format=png"
+  },
+  {
+    "ticker": "ESS",
+    "name": "Essex Property Trust",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ESS?format=png"
+  },
+  {
+    "ticker": "EL",
+    "name": "Est\u00e9e Lauder Companies (The)",
+    "logo_url": "https://assets.parqet.com/logos/symbol/EL?format=png"
+  },
+  {
+    "ticker": "EG",
+    "name": "Everest Group",
+    "logo_url": "https://assets.parqet.com/logos/symbol/EG?format=png"
+  },
+  {
+    "ticker": "EVRG",
+    "name": "Evergy",
+    "logo_url": "https://assets.parqet.com/logos/symbol/EVRG?format=png"
+  },
+  {
+    "ticker": "ES",
+    "name": "Eversource Energy",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ES?format=png"
+  },
+  {
+    "ticker": "EXC",
+    "name": "Exelon",
+    "logo_url": "https://assets.parqet.com/logos/symbol/EXC?format=png"
+  },
+  {
+    "ticker": "EXE",
+    "name": "Expand Energy",
+    "logo_url": "https://assets.parqet.com/logos/symbol/EXE?format=png"
+  },
+  {
+    "ticker": "EXPE",
+    "name": "Expedia Group",
+    "logo_url": "https://assets.parqet.com/logos/symbol/EXPE?format=png"
+  },
+  {
+    "ticker": "EXPD",
+    "name": "Expeditors International",
+    "logo_url": "https://assets.parqet.com/logos/symbol/EXPD?format=png"
+  },
+  {
+    "ticker": "EXR",
+    "name": "Extra Space Storage",
+    "logo_url": "https://assets.parqet.com/logos/symbol/EXR?format=png"
+  },
+  {
+    "ticker": "XOM",
+    "name": "ExxonMobil",
+    "logo_url": "https://assets.parqet.com/logos/symbol/XOM?format=png"
+  },
+  {
+    "ticker": "FFIV",
+    "name": "F5, Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/FFIV?format=png"
+  },
+  {
+    "ticker": "FDS",
+    "name": "FactSet",
+    "logo_url": "https://assets.parqet.com/logos/symbol/FDS?format=png"
+  },
+  {
+    "ticker": "FICO",
+    "name": "Fair Isaac",
+    "logo_url": "https://assets.parqet.com/logos/symbol/FICO?format=png"
+  },
+  {
+    "ticker": "FAST",
+    "name": "Fastenal",
+    "logo_url": "https://assets.parqet.com/logos/symbol/FAST?format=png"
+  },
+  {
+    "ticker": "FRT",
+    "name": "Federal Realty Investment Trust",
+    "logo_url": "https://assets.parqet.com/logos/symbol/FRT?format=png"
+  },
+  {
+    "ticker": "FDX",
+    "name": "FedEx",
+    "logo_url": "https://assets.parqet.com/logos/symbol/FDX?format=png"
+  },
+  {
+    "ticker": "FIS",
+    "name": "Fidelity National Information Services",
+    "logo_url": "https://assets.parqet.com/logos/symbol/FIS?format=png"
+  },
+  {
+    "ticker": "FITB",
+    "name": "Fifth Third Bancorp",
+    "logo_url": "https://assets.parqet.com/logos/symbol/FITB?format=png"
+  },
+  {
+    "ticker": "FSLR",
+    "name": "First Solar",
+    "logo_url": "https://assets.parqet.com/logos/symbol/FSLR?format=png"
+  },
+  {
+    "ticker": "FE",
+    "name": "FirstEnergy",
+    "logo_url": "https://assets.parqet.com/logos/symbol/FE?format=png"
+  },
+  {
+    "ticker": "FISV",
+    "name": "Fiserv",
+    "logo_url": "https://assets.parqet.com/logos/symbol/FISV?format=png"
+  },
+  {
+    "ticker": "F",
+    "name": "Ford Motor Company",
+    "logo_url": "https://assets.parqet.com/logos/symbol/F?format=png"
+  },
+  {
+    "ticker": "FTNT",
+    "name": "Fortinet",
+    "logo_url": "https://assets.parqet.com/logos/symbol/FTNT?format=png"
+  },
+  {
+    "ticker": "FTV",
+    "name": "Fortive",
+    "logo_url": "https://assets.parqet.com/logos/symbol/FTV?format=png"
+  },
+  {
+    "ticker": "FOXA",
+    "name": "Fox Corporation (Class A)",
+    "logo_url": "https://assets.parqet.com/logos/symbol/FOXA?format=png"
+  },
+  {
+    "ticker": "FOX",
+    "name": "Fox Corporation (Class B)",
+    "logo_url": "https://assets.parqet.com/logos/symbol/FOX?format=png"
+  },
+  {
+    "ticker": "BEN",
+    "name": "Franklin Resources",
+    "logo_url": "https://assets.parqet.com/logos/symbol/BEN?format=png"
+  },
+  {
+    "ticker": "FCX",
+    "name": "Freeport-McMoRan",
+    "logo_url": "https://assets.parqet.com/logos/symbol/FCX?format=png"
+  },
+  {
+    "ticker": "GRMN",
+    "name": "Garmin",
+    "logo_url": "https://assets.parqet.com/logos/symbol/GRMN?format=png"
+  },
+  {
+    "ticker": "IT",
+    "name": "Gartner",
+    "logo_url": "https://assets.parqet.com/logos/symbol/IT?format=png"
+  },
+  {
+    "ticker": "GE",
+    "name": "GE Aerospace",
+    "logo_url": "https://assets.parqet.com/logos/symbol/GE?format=png"
+  },
+  {
+    "ticker": "GEHC",
+    "name": "GE HealthCare",
+    "logo_url": "https://assets.parqet.com/logos/symbol/GEHC?format=png"
+  },
+  {
+    "ticker": "GEV",
+    "name": "GE Vernova",
+    "logo_url": "https://assets.parqet.com/logos/symbol/GEV?format=png"
+  },
+  {
+    "ticker": "GEN",
+    "name": "Gen Digital",
+    "logo_url": "https://assets.parqet.com/logos/symbol/GEN?format=png"
+  },
+  {
+    "ticker": "GNRC",
+    "name": "Generac",
+    "logo_url": "https://assets.parqet.com/logos/symbol/GNRC?format=png"
+  },
+  {
+    "ticker": "GD",
+    "name": "General Dynamics",
+    "logo_url": "https://assets.parqet.com/logos/symbol/GD?format=png"
+  },
+  {
+    "ticker": "GIS",
+    "name": "General Mills",
+    "logo_url": "https://assets.parqet.com/logos/symbol/GIS?format=png"
+  },
+  {
+    "ticker": "GM",
+    "name": "General Motors",
+    "logo_url": "https://assets.parqet.com/logos/symbol/GM?format=png"
+  },
+  {
+    "ticker": "GPC",
+    "name": "Genuine Parts Company",
+    "logo_url": "https://assets.parqet.com/logos/symbol/GPC?format=png"
+  },
+  {
+    "ticker": "GILD",
+    "name": "Gilead Sciences",
+    "logo_url": "https://assets.parqet.com/logos/symbol/GILD?format=png"
+  },
+  {
+    "ticker": "GPN",
+    "name": "Global Payments",
+    "logo_url": "https://assets.parqet.com/logos/symbol/GPN?format=png"
+  },
+  {
+    "ticker": "GL",
+    "name": "Globe Life",
+    "logo_url": "https://assets.parqet.com/logos/symbol/GL?format=png"
+  },
+  {
+    "ticker": "GDDY",
+    "name": "GoDaddy",
+    "logo_url": "https://assets.parqet.com/logos/symbol/GDDY?format=png"
+  },
+  {
+    "ticker": "GS",
+    "name": "Goldman Sachs",
+    "logo_url": "https://assets.parqet.com/logos/symbol/GS?format=png"
+  },
+  {
+    "ticker": "HAL",
+    "name": "Halliburton",
+    "logo_url": "https://assets.parqet.com/logos/symbol/HAL?format=png"
+  },
+  {
+    "ticker": "HIG",
+    "name": "Hartford (The)",
+    "logo_url": "https://assets.parqet.com/logos/symbol/HIG?format=png"
+  },
+  {
+    "ticker": "HAS",
+    "name": "Hasbro",
+    "logo_url": "https://assets.parqet.com/logos/symbol/HAS?format=png"
+  },
+  {
+    "ticker": "HCA",
+    "name": "HCA Healthcare",
+    "logo_url": "https://assets.parqet.com/logos/symbol/HCA?format=png"
+  },
+  {
+    "ticker": "DOC",
+    "name": "Healthpeak Properties",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DOC?format=png"
+  },
+  {
+    "ticker": "HSIC",
+    "name": "Henry Schein",
+    "logo_url": "https://assets.parqet.com/logos/symbol/HSIC?format=png"
+  },
+  {
+    "ticker": "HSY",
+    "name": "Hershey Company (The)",
+    "logo_url": "https://assets.parqet.com/logos/symbol/HSY?format=png"
+  },
+  {
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise",
+    "logo_url": "https://assets.parqet.com/logos/symbol/HPE?format=png"
+  },
+  {
+    "ticker": "HLT",
+    "name": "Hilton Worldwide",
+    "logo_url": "https://assets.parqet.com/logos/symbol/HLT?format=png"
+  },
+  {
+    "ticker": "HD",
+    "name": "Home Depot (The)",
+    "logo_url": "https://assets.parqet.com/logos/symbol/HD?format=png"
+  },
+  {
+    "ticker": "HON",
+    "name": "Honeywell",
+    "logo_url": "https://assets.parqet.com/logos/symbol/HON?format=png"
+  },
+  {
+    "ticker": "HRL",
+    "name": "Hormel Foods",
+    "logo_url": "https://assets.parqet.com/logos/symbol/HRL?format=png"
+  },
+  {
+    "ticker": "HST",
+    "name": "Host Hotels & Resorts",
+    "logo_url": "https://assets.parqet.com/logos/symbol/HST?format=png"
+  },
+  {
+    "ticker": "HWM",
+    "name": "Howmet Aerospace",
+    "logo_url": "https://assets.parqet.com/logos/symbol/HWM?format=png"
+  },
+  {
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/HPQ?format=png"
+  },
+  {
+    "ticker": "HUBB",
+    "name": "Hubbell Incorporated",
+    "logo_url": "https://assets.parqet.com/logos/symbol/HUBB?format=png"
+  },
+  {
+    "ticker": "HUM",
+    "name": "Humana",
+    "logo_url": "https://assets.parqet.com/logos/symbol/HUM?format=png"
+  },
+  {
+    "ticker": "HBAN",
+    "name": "Huntington Bancshares",
+    "logo_url": "https://assets.parqet.com/logos/symbol/HBAN?format=png"
+  },
+  {
+    "ticker": "HII",
+    "name": "Huntington Ingalls Industries",
+    "logo_url": "https://assets.parqet.com/logos/symbol/HII?format=png"
+  },
+  {
+    "ticker": "IBM",
+    "name": "IBM",
+    "logo_url": "https://assets.parqet.com/logos/symbol/IBM?format=png"
+  },
+  {
+    "ticker": "IEX",
+    "name": "IDEX Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/IEX?format=png"
+  },
+  {
+    "ticker": "IDXX",
+    "name": "Idexx Laboratories",
+    "logo_url": "https://assets.parqet.com/logos/symbol/IDXX?format=png"
+  },
+  {
+    "ticker": "ITW",
+    "name": "Illinois Tool Works",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ITW?format=png"
+  },
+  {
+    "ticker": "INCY",
+    "name": "Incyte",
+    "logo_url": "https://assets.parqet.com/logos/symbol/INCY?format=png"
+  },
+  {
+    "ticker": "IR",
+    "name": "Ingersoll Rand",
+    "logo_url": "https://assets.parqet.com/logos/symbol/IR?format=png"
+  },
+  {
+    "ticker": "PODD",
+    "name": "Insulet Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PODD?format=png"
+  },
+  {
+    "ticker": "INTC",
+    "name": "Intel",
+    "logo_url": "https://assets.parqet.com/logos/symbol/INTC?format=png"
+  },
+  {
+    "ticker": "IBKR",
+    "name": "Interactive Brokers",
+    "logo_url": "https://assets.parqet.com/logos/symbol/IBKR?format=png"
+  },
+  {
+    "ticker": "ICE",
+    "name": "Intercontinental Exchange",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ICE?format=png"
+  },
+  {
+    "ticker": "IFF",
+    "name": "International Flavors & Fragrances",
+    "logo_url": "https://assets.parqet.com/logos/symbol/IFF?format=png"
+  },
+  {
+    "ticker": "IP",
+    "name": "International Paper",
+    "logo_url": "https://assets.parqet.com/logos/symbol/IP?format=png"
+  },
+  {
+    "ticker": "INTU",
+    "name": "Intuit",
+    "logo_url": "https://assets.parqet.com/logos/symbol/INTU?format=png"
+  },
+  {
+    "ticker": "ISRG",
+    "name": "Intuitive Surgical",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ISRG?format=png"
+  },
+  {
+    "ticker": "IVZ",
+    "name": "Invesco",
+    "logo_url": "https://assets.parqet.com/logos/symbol/IVZ?format=png"
+  },
+  {
+    "ticker": "INVH",
+    "name": "Invitation Homes",
+    "logo_url": "https://assets.parqet.com/logos/symbol/INVH?format=png"
+  },
+  {
+    "ticker": "IQV",
+    "name": "IQVIA",
+    "logo_url": "https://assets.parqet.com/logos/symbol/IQV?format=png"
+  },
+  {
+    "ticker": "IRM",
+    "name": "Iron Mountain",
+    "logo_url": "https://assets.parqet.com/logos/symbol/IRM?format=png"
+  },
+  {
+    "ticker": "JBHT",
+    "name": "J.B. Hunt",
+    "logo_url": "https://assets.parqet.com/logos/symbol/JBHT?format=png"
+  },
+  {
+    "ticker": "JBL",
+    "name": "Jabil",
+    "logo_url": "https://assets.parqet.com/logos/symbol/JBL?format=png"
+  },
+  {
+    "ticker": "JKHY",
+    "name": "Jack Henry & Associates",
+    "logo_url": "https://assets.parqet.com/logos/symbol/JKHY?format=png"
+  },
+  {
+    "ticker": "J",
+    "name": "Jacobs Solutions",
+    "logo_url": "https://assets.parqet.com/logos/symbol/J?format=png"
+  },
+  {
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson",
+    "logo_url": "https://assets.parqet.com/logos/symbol/JNJ?format=png"
+  },
+  {
+    "ticker": "JCI",
+    "name": "Johnson Controls",
+    "logo_url": "https://assets.parqet.com/logos/symbol/JCI?format=png"
+  },
+  {
+    "ticker": "JPM",
+    "name": "JPMorgan Chase",
+    "logo_url": "https://assets.parqet.com/logos/symbol/JPM?format=png"
+  },
+  {
+    "ticker": "KVUE",
+    "name": "Kenvue",
+    "logo_url": "https://assets.parqet.com/logos/symbol/KVUE?format=png"
+  },
+  {
+    "ticker": "KDP",
+    "name": "Keurig Dr Pepper",
+    "logo_url": "https://assets.parqet.com/logos/symbol/KDP?format=png"
+  },
+  {
+    "ticker": "KEY",
+    "name": "KeyCorp",
+    "logo_url": "https://assets.parqet.com/logos/symbol/KEY?format=png"
+  },
+  {
+    "ticker": "KEYS",
+    "name": "Keysight Technologies",
+    "logo_url": "https://assets.parqet.com/logos/symbol/KEYS?format=png"
+  },
+  {
+    "ticker": "KMB",
+    "name": "Kimberly-Clark",
+    "logo_url": "https://assets.parqet.com/logos/symbol/KMB?format=png"
+  },
+  {
+    "ticker": "KIM",
+    "name": "Kimco Realty",
+    "logo_url": "https://assets.parqet.com/logos/symbol/KIM?format=png"
+  },
+  {
+    "ticker": "KMI",
+    "name": "Kinder Morgan",
+    "logo_url": "https://assets.parqet.com/logos/symbol/KMI?format=png"
+  },
+  {
+    "ticker": "KKR",
+    "name": "KKR & Co.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/KKR?format=png"
+  },
+  {
+    "ticker": "KLAC",
+    "name": "KLA Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/KLAC?format=png"
+  },
+  {
+    "ticker": "KHC",
+    "name": "Kraft Heinz",
+    "logo_url": "https://assets.parqet.com/logos/symbol/KHC?format=png"
+  },
+  {
+    "ticker": "KR",
+    "name": "Kroger",
+    "logo_url": "https://assets.parqet.com/logos/symbol/KR?format=png"
+  },
+  {
+    "ticker": "LHX",
+    "name": "L3Harris",
+    "logo_url": "https://assets.parqet.com/logos/symbol/LHX?format=png"
+  },
+  {
+    "ticker": "LH",
+    "name": "Labcorp",
+    "logo_url": "https://assets.parqet.com/logos/symbol/LH?format=png"
+  },
+  {
+    "ticker": "LRCX",
+    "name": "Lam Research",
+    "logo_url": "https://assets.parqet.com/logos/symbol/LRCX?format=png"
+  },
+  {
+    "ticker": "LVS",
+    "name": "Las Vegas Sands",
+    "logo_url": "https://assets.parqet.com/logos/symbol/LVS?format=png"
+  },
+  {
+    "ticker": "LDOS",
+    "name": "Leidos",
+    "logo_url": "https://assets.parqet.com/logos/symbol/LDOS?format=png"
+  },
+  {
+    "ticker": "LEN",
+    "name": "Lennar",
+    "logo_url": "https://assets.parqet.com/logos/symbol/LEN?format=png"
+  },
+  {
+    "ticker": "LII",
+    "name": "Lennox International",
+    "logo_url": "https://assets.parqet.com/logos/symbol/LII?format=png"
+  },
+  {
+    "ticker": "LLY",
+    "name": "Lilly (Eli)",
+    "logo_url": "https://assets.parqet.com/logos/symbol/LLY?format=png"
+  },
+  {
+    "ticker": "LIN",
+    "name": "Linde plc",
+    "logo_url": "https://assets.parqet.com/logos/symbol/LIN?format=png"
+  },
+  {
+    "ticker": "LYV",
+    "name": "Live Nation Entertainment",
+    "logo_url": "https://assets.parqet.com/logos/symbol/LYV?format=png"
+  },
+  {
+    "ticker": "LMT",
+    "name": "Lockheed Martin",
+    "logo_url": "https://assets.parqet.com/logos/symbol/LMT?format=png"
+  },
+  {
+    "ticker": "L",
+    "name": "Loews Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/L?format=png"
+  },
+  {
+    "ticker": "LOW",
+    "name": "Lowe's",
+    "logo_url": "https://assets.parqet.com/logos/symbol/LOW?format=png"
+  },
+  {
+    "ticker": "LULU",
+    "name": "Lululemon Athletica",
+    "logo_url": "https://assets.parqet.com/logos/symbol/LULU?format=png"
+  },
+  {
+    "ticker": "LITE",
+    "name": "Lumentum",
+    "logo_url": "https://assets.parqet.com/logos/symbol/LITE?format=png"
+  },
+  {
+    "ticker": "LYB",
+    "name": "LyondellBasell",
+    "logo_url": "https://assets.parqet.com/logos/symbol/LYB?format=png"
+  },
+  {
+    "ticker": "MTB",
+    "name": "M&T Bank",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MTB?format=png"
+  },
+  {
+    "ticker": "MPC",
+    "name": "Marathon Petroleum",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MPC?format=png"
+  },
+  {
+    "ticker": "MAR",
+    "name": "Marriott International",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MAR?format=png"
+  },
+  {
+    "ticker": "MRSH",
+    "name": "Marsh McLennan",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MRSH?format=png"
+  },
+  {
+    "ticker": "MLM",
+    "name": "Martin Marietta Materials",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MLM?format=png"
+  },
+  {
+    "ticker": "MAS",
+    "name": "Masco",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MAS?format=png"
+  },
+  {
+    "ticker": "MA",
+    "name": "Mastercard",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MA?format=png"
+  },
+  {
+    "ticker": "MKC",
+    "name": "McCormick & Company",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MKC?format=png"
+  },
+  {
+    "ticker": "MCD",
+    "name": "McDonald's",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MCD?format=png"
+  },
+  {
+    "ticker": "MCK",
+    "name": "McKesson Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MCK?format=png"
+  },
+  {
+    "ticker": "MDT",
+    "name": "Medtronic",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MDT?format=png"
+  },
+  {
+    "ticker": "MRK",
+    "name": "Merck & Co.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MRK?format=png"
+  },
+  {
+    "ticker": "META",
+    "name": "Meta Platforms",
+    "logo_url": "https://assets.parqet.com/logos/symbol/META?format=png"
+  },
+  {
+    "ticker": "MET",
+    "name": "MetLife",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MET?format=png"
+  },
+  {
+    "ticker": "MTD",
+    "name": "Mettler Toledo",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MTD?format=png"
+  },
+  {
+    "ticker": "MGM",
+    "name": "MGM Resorts",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MGM?format=png"
+  },
+  {
+    "ticker": "MCHP",
+    "name": "Microchip Technology",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MCHP?format=png"
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron Technology",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MU?format=png"
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MSFT?format=png"
+  },
+  {
+    "ticker": "MAA",
+    "name": "Mid-America Apartment Communities",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MAA?format=png"
+  },
+  {
+    "ticker": "MRNA",
+    "name": "Moderna",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MRNA?format=png"
+  },
+  {
+    "ticker": "TAP",
+    "name": "Molson Coors Beverage Company",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TAP?format=png"
+  },
+  {
+    "ticker": "MDLZ",
+    "name": "Mondelez International",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MDLZ?format=png"
+  },
+  {
+    "ticker": "MPWR",
+    "name": "Monolithic Power Systems",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MPWR?format=png"
+  },
+  {
+    "ticker": "MNST",
+    "name": "Monster Beverage",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MNST?format=png"
+  },
+  {
+    "ticker": "MCO",
+    "name": "Moody's Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MCO?format=png"
+  },
+  {
+    "ticker": "MS",
+    "name": "Morgan Stanley",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MS?format=png"
+  },
+  {
+    "ticker": "MOS",
+    "name": "Mosaic Company (The)",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MOS?format=png"
+  },
+  {
+    "ticker": "MSI",
+    "name": "Motorola Solutions",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MSI?format=png"
+  },
+  {
+    "ticker": "MSCI",
+    "name": "MSCI Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/MSCI?format=png"
+  },
+  {
+    "ticker": "NDAQ",
+    "name": "Nasdaq, Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/NDAQ?format=png"
+  },
+  {
+    "ticker": "NTAP",
+    "name": "NetApp",
+    "logo_url": "https://assets.parqet.com/logos/symbol/NTAP?format=png"
+  },
+  {
+    "ticker": "NFLX",
+    "name": "Netflix",
+    "logo_url": "https://assets.parqet.com/logos/symbol/NFLX?format=png"
+  },
+  {
+    "ticker": "NEM",
+    "name": "Newmont",
+    "logo_url": "https://assets.parqet.com/logos/symbol/NEM?format=png"
+  },
+  {
+    "ticker": "NWSA",
+    "name": "News Corp (Class A)",
+    "logo_url": "https://assets.parqet.com/logos/symbol/NWSA?format=png"
+  },
+  {
+    "ticker": "NWS",
+    "name": "News Corp (Class B)",
+    "logo_url": "https://assets.parqet.com/logos/symbol/NWS?format=png"
+  },
+  {
+    "ticker": "NEE",
+    "name": "NextEra Energy",
+    "logo_url": "https://assets.parqet.com/logos/symbol/NEE?format=png"
+  },
+  {
+    "ticker": "NKE",
+    "name": "Nike, Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/NKE?format=png"
+  },
+  {
+    "ticker": "NI",
+    "name": "NiSource",
+    "logo_url": "https://assets.parqet.com/logos/symbol/NI?format=png"
+  },
+  {
+    "ticker": "NDSN",
+    "name": "Nordson Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/NDSN?format=png"
+  },
+  {
+    "ticker": "NSC",
+    "name": "Norfolk Southern",
+    "logo_url": "https://assets.parqet.com/logos/symbol/NSC?format=png"
+  },
+  {
+    "ticker": "NTRS",
+    "name": "Northern Trust",
+    "logo_url": "https://assets.parqet.com/logos/symbol/NTRS?format=png"
+  },
+  {
+    "ticker": "NOC",
+    "name": "Northrop Grumman",
+    "logo_url": "https://assets.parqet.com/logos/symbol/NOC?format=png"
+  },
+  {
+    "ticker": "NCLH",
+    "name": "Norwegian Cruise Line Holdings",
+    "logo_url": "https://assets.parqet.com/logos/symbol/NCLH?format=png"
+  },
+  {
+    "ticker": "NRG",
+    "name": "NRG Energy",
+    "logo_url": "https://assets.parqet.com/logos/symbol/NRG?format=png"
+  },
+  {
+    "ticker": "NUE",
+    "name": "Nucor",
+    "logo_url": "https://assets.parqet.com/logos/symbol/NUE?format=png"
+  },
+  {
+    "ticker": "NVDA",
+    "name": "Nvidia",
+    "logo_url": "https://assets.parqet.com/logos/symbol/NVDA?format=png"
+  },
+  {
+    "ticker": "NVR",
+    "name": "NVR, Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/NVR?format=png"
+  },
+  {
+    "ticker": "NXPI",
+    "name": "NXP Semiconductors",
+    "logo_url": "https://assets.parqet.com/logos/symbol/NXPI?format=png"
+  },
+  {
+    "ticker": "ORLY",
+    "name": "O\u2019Reilly Automotive",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ORLY?format=png"
+  },
+  {
+    "ticker": "OXY",
+    "name": "Occidental Petroleum",
+    "logo_url": "https://assets.parqet.com/logos/symbol/OXY?format=png"
+  },
+  {
+    "ticker": "ODFL",
+    "name": "Old Dominion",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ODFL?format=png"
+  },
+  {
+    "ticker": "OMC",
+    "name": "Omnicom Group",
+    "logo_url": "https://assets.parqet.com/logos/symbol/OMC?format=png"
+  },
+  {
+    "ticker": "ON",
+    "name": "ON Semiconductor",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ON?format=png"
+  },
+  {
+    "ticker": "OKE",
+    "name": "Oneok",
+    "logo_url": "https://assets.parqet.com/logos/symbol/OKE?format=png"
+  },
+  {
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ORCL?format=png"
+  },
+  {
+    "ticker": "OTIS",
+    "name": "Otis Worldwide",
+    "logo_url": "https://assets.parqet.com/logos/symbol/OTIS?format=png"
+  },
+  {
+    "ticker": "PCAR",
+    "name": "Paccar",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PCAR?format=png"
+  },
+  {
+    "ticker": "PKG",
+    "name": "Packaging Corporation of America",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PKG?format=png"
+  },
+  {
+    "ticker": "PLTR",
+    "name": "Palantir Technologies",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PLTR?format=png"
+  },
+  {
+    "ticker": "PANW",
+    "name": "Palo Alto Networks",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PANW?format=png"
+  },
+  {
+    "ticker": "PSKY",
+    "name": "Paramount Skydance Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PSKY?format=png"
+  },
+  {
+    "ticker": "PH",
+    "name": "Parker Hannifin",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PH?format=png"
+  },
+  {
+    "ticker": "PAYX",
+    "name": "Paychex",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PAYX?format=png"
+  },
+  {
+    "ticker": "PYPL",
+    "name": "PayPal",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PYPL?format=png"
+  },
+  {
+    "ticker": "PNR",
+    "name": "Pentair",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PNR?format=png"
+  },
+  {
+    "ticker": "PEP",
+    "name": "PepsiCo",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PEP?format=png"
+  },
+  {
+    "ticker": "PFE",
+    "name": "Pfizer",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PFE?format=png"
+  },
+  {
+    "ticker": "PCG",
+    "name": "PG&E Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PCG?format=png"
+  },
+  {
+    "ticker": "PM",
+    "name": "Philip Morris International",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PM?format=png"
+  },
+  {
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PSX?format=png"
+  },
+  {
+    "ticker": "PNW",
+    "name": "Pinnacle West Capital",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PNW?format=png"
+  },
+  {
+    "ticker": "PNC",
+    "name": "PNC Financial Services",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PNC?format=png"
+  },
+  {
+    "ticker": "POOL",
+    "name": "Pool Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/POOL?format=png"
+  },
+  {
+    "ticker": "PPG",
+    "name": "PPG Industries",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PPG?format=png"
+  },
+  {
+    "ticker": "PPL",
+    "name": "PPL Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PPL?format=png"
+  },
+  {
+    "ticker": "PFG",
+    "name": "Principal Financial Group",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PFG?format=png"
+  },
+  {
+    "ticker": "PG",
+    "name": "Procter & Gamble",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PG?format=png"
+  },
+  {
+    "ticker": "PGR",
+    "name": "Progressive Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PGR?format=png"
+  },
+  {
+    "ticker": "PLD",
+    "name": "Prologis",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PLD?format=png"
+  },
+  {
+    "ticker": "PRU",
+    "name": "Prudential Financial",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PRU?format=png"
+  },
+  {
+    "ticker": "PEG",
+    "name": "Public Service Enterprise Group",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PEG?format=png"
+  },
+  {
+    "ticker": "PTC",
+    "name": "PTC Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PTC?format=png"
+  },
+  {
+    "ticker": "PSA",
+    "name": "Public Storage",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PSA?format=png"
+  },
+  {
+    "ticker": "PHM",
+    "name": "PulteGroup",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PHM?format=png"
+  },
+  {
+    "ticker": "PWR",
+    "name": "Quanta Services",
+    "logo_url": "https://assets.parqet.com/logos/symbol/PWR?format=png"
+  },
+  {
+    "ticker": "QCOM",
+    "name": "Qualcomm",
+    "logo_url": "https://assets.parqet.com/logos/symbol/QCOM?format=png"
+  },
+  {
+    "ticker": "DGX",
+    "name": "Quest Diagnostics",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DGX?format=png"
+  },
+  {
+    "ticker": "Q",
+    "name": "Qnity Electronics",
+    "logo_url": "https://assets.parqet.com/logos/symbol/Q?format=png"
+  },
+  {
+    "ticker": "RL",
+    "name": "Ralph Lauren Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/RL?format=png"
+  },
+  {
+    "ticker": "RJF",
+    "name": "Raymond James Financial",
+    "logo_url": "https://assets.parqet.com/logos/symbol/RJF?format=png"
+  },
+  {
+    "ticker": "RTX",
+    "name": "RTX Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/RTX?format=png"
+  },
+  {
+    "ticker": "O",
+    "name": "Realty Income",
+    "logo_url": "https://assets.parqet.com/logos/symbol/O?format=png"
+  },
+  {
+    "ticker": "REG",
+    "name": "Regency Centers",
+    "logo_url": "https://assets.parqet.com/logos/symbol/REG?format=png"
+  },
+  {
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals",
+    "logo_url": "https://assets.parqet.com/logos/symbol/REGN?format=png"
+  },
+  {
+    "ticker": "RF",
+    "name": "Regions Financial Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/RF?format=png"
+  },
+  {
+    "ticker": "RSG",
+    "name": "Republic Services",
+    "logo_url": "https://assets.parqet.com/logos/symbol/RSG?format=png"
+  },
+  {
+    "ticker": "RMD",
+    "name": "ResMed",
+    "logo_url": "https://assets.parqet.com/logos/symbol/RMD?format=png"
+  },
+  {
+    "ticker": "RVTY",
+    "name": "Revvity",
+    "logo_url": "https://assets.parqet.com/logos/symbol/RVTY?format=png"
+  },
+  {
+    "ticker": "HOOD",
+    "name": "Robinhood Markets",
+    "logo_url": "https://assets.parqet.com/logos/symbol/HOOD?format=png"
+  },
+  {
+    "ticker": "ROK",
+    "name": "Rockwell Automation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ROK?format=png"
+  },
+  {
+    "ticker": "ROL",
+    "name": "Rollins, Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ROL?format=png"
+  },
+  {
+    "ticker": "ROP",
+    "name": "Roper Technologies",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ROP?format=png"
+  },
+  {
+    "ticker": "ROST",
+    "name": "Ross Stores",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ROST?format=png"
+  },
+  {
+    "ticker": "RCL",
+    "name": "Royal Caribbean Group",
+    "logo_url": "https://assets.parqet.com/logos/symbol/RCL?format=png"
+  },
+  {
+    "ticker": "SPGI",
+    "name": "S&P Global",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SPGI?format=png"
+  },
+  {
+    "ticker": "CRM",
+    "name": "Salesforce",
+    "logo_url": "https://assets.parqet.com/logos/symbol/CRM?format=png"
+  },
+  {
+    "ticker": "SNDK",
+    "name": "Sandisk",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SNDK?format=png"
+  },
+  {
+    "ticker": "SBAC",
+    "name": "SBA Communications",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SBAC?format=png"
+  },
+  {
+    "ticker": "SLB",
+    "name": "Schlumberger",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SLB?format=png"
+  },
+  {
+    "ticker": "STX",
+    "name": "Seagate Technology",
+    "logo_url": "https://assets.parqet.com/logos/symbol/STX?format=png"
+  },
+  {
+    "ticker": "SRE",
+    "name": "Sempra",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SRE?format=png"
+  },
+  {
+    "ticker": "NOW",
+    "name": "ServiceNow",
+    "logo_url": "https://assets.parqet.com/logos/symbol/NOW?format=png"
+  },
+  {
+    "ticker": "SHW",
+    "name": "Sherwin-Williams",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SHW?format=png"
+  },
+  {
+    "ticker": "SPG",
+    "name": "Simon Property Group",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SPG?format=png"
+  },
+  {
+    "ticker": "SWKS",
+    "name": "Skyworks Solutions",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SWKS?format=png"
+  },
+  {
+    "ticker": "SJM",
+    "name": "J.M. Smucker Company (The)",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SJM?format=png"
+  },
+  {
+    "ticker": "SW",
+    "name": "Smurfit Westrock",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SW?format=png"
+  },
+  {
+    "ticker": "SNA",
+    "name": "Snap-on",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SNA?format=png"
+  },
+  {
+    "ticker": "SOLV",
+    "name": "Solventum",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SOLV?format=png"
+  },
+  {
+    "ticker": "SO",
+    "name": "Southern Company",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SO?format=png"
+  },
+  {
+    "ticker": "LUV",
+    "name": "Southwest Airlines",
+    "logo_url": "https://assets.parqet.com/logos/symbol/LUV?format=png"
+  },
+  {
+    "ticker": "SWK",
+    "name": "Stanley Black & Decker",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SWK?format=png"
+  },
+  {
+    "ticker": "SBUX",
+    "name": "Starbucks",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SBUX?format=png"
+  },
+  {
+    "ticker": "STT",
+    "name": "State Street Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/STT?format=png"
+  },
+  {
+    "ticker": "STLD",
+    "name": "Steel Dynamics",
+    "logo_url": "https://assets.parqet.com/logos/symbol/STLD?format=png"
+  },
+  {
+    "ticker": "STE",
+    "name": "Steris",
+    "logo_url": "https://assets.parqet.com/logos/symbol/STE?format=png"
+  },
+  {
+    "ticker": "SYK",
+    "name": "Stryker Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SYK?format=png"
+  },
+  {
+    "ticker": "SMCI",
+    "name": "Supermicro",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SMCI?format=png"
+  },
+  {
+    "ticker": "SYF",
+    "name": "Synchrony Financial",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SYF?format=png"
+  },
+  {
+    "ticker": "SNPS",
+    "name": "Synopsys",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SNPS?format=png"
+  },
+  {
+    "ticker": "SYY",
+    "name": "Sysco",
+    "logo_url": "https://assets.parqet.com/logos/symbol/SYY?format=png"
+  },
+  {
+    "ticker": "TMUS",
+    "name": "T-Mobile US",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TMUS?format=png"
+  },
+  {
+    "ticker": "TROW",
+    "name": "T. Rowe Price",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TROW?format=png"
+  },
+  {
+    "ticker": "TTWO",
+    "name": "Take-Two Interactive",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TTWO?format=png"
+  },
+  {
+    "ticker": "TPR",
+    "name": "Tapestry, Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TPR?format=png"
+  },
+  {
+    "ticker": "TRGP",
+    "name": "Targa Resources",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TRGP?format=png"
+  },
+  {
+    "ticker": "TGT",
+    "name": "Target Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TGT?format=png"
+  },
+  {
+    "ticker": "TEL",
+    "name": "TE Connectivity",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TEL?format=png"
+  },
+  {
+    "ticker": "TDY",
+    "name": "Teledyne Technologies",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TDY?format=png"
+  },
+  {
+    "ticker": "TER",
+    "name": "Teradyne",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TER?format=png"
+  },
+  {
+    "ticker": "TSLA",
+    "name": "Tesla, Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TSLA?format=png"
+  },
+  {
+    "ticker": "TXN",
+    "name": "Texas Instruments",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TXN?format=png"
+  },
+  {
+    "ticker": "TPL",
+    "name": "Texas Pacific Land Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TPL?format=png"
+  },
+  {
+    "ticker": "TXT",
+    "name": "Textron",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TXT?format=png"
+  },
+  {
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TMO?format=png"
+  },
+  {
+    "ticker": "TJX",
+    "name": "TJX Companies",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TJX?format=png"
+  },
+  {
+    "ticker": "TKO",
+    "name": "TKO Group Holdings",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TKO?format=png"
+  },
+  {
+    "ticker": "TTD",
+    "name": "Trade Desk (The)",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TTD?format=png"
+  },
+  {
+    "ticker": "TSCO",
+    "name": "Tractor Supply",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TSCO?format=png"
+  },
+  {
+    "ticker": "TT",
+    "name": "Trane Technologies",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TT?format=png"
+  },
+  {
+    "ticker": "TDG",
+    "name": "TransDigm Group",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TDG?format=png"
+  },
+  {
+    "ticker": "TRV",
+    "name": "Travelers Companies (The)",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TRV?format=png"
+  },
+  {
+    "ticker": "TRMB",
+    "name": "Trimble Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TRMB?format=png"
+  },
+  {
+    "ticker": "TFC",
+    "name": "Truist Financial",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TFC?format=png"
+  },
+  {
+    "ticker": "TYL",
+    "name": "Tyler Technologies",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TYL?format=png"
+  },
+  {
+    "ticker": "TSN",
+    "name": "Tyson Foods",
+    "logo_url": "https://assets.parqet.com/logos/symbol/TSN?format=png"
+  },
+  {
+    "ticker": "USB",
+    "name": "U.S. Bancorp",
+    "logo_url": "https://assets.parqet.com/logos/symbol/USB?format=png"
+  },
+  {
+    "ticker": "UBER",
+    "name": "Uber",
+    "logo_url": "https://assets.parqet.com/logos/symbol/UBER?format=png"
+  },
+  {
+    "ticker": "UDR",
+    "name": "UDR, Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/UDR?format=png"
+  },
+  {
+    "ticker": "ULTA",
+    "name": "Ulta Beauty",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ULTA?format=png"
+  },
+  {
+    "ticker": "UNP",
+    "name": "Union Pacific Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/UNP?format=png"
+  },
+  {
+    "ticker": "UAL",
+    "name": "United Airlines Holdings",
+    "logo_url": "https://assets.parqet.com/logos/symbol/UAL?format=png"
+  },
+  {
+    "ticker": "UPS",
+    "name": "United Parcel Service",
+    "logo_url": "https://assets.parqet.com/logos/symbol/UPS?format=png"
+  },
+  {
+    "ticker": "URI",
+    "name": "United Rentals",
+    "logo_url": "https://assets.parqet.com/logos/symbol/URI?format=png"
+  },
+  {
+    "ticker": "UNH",
+    "name": "UnitedHealth Group",
+    "logo_url": "https://assets.parqet.com/logos/symbol/UNH?format=png"
+  },
+  {
+    "ticker": "UHS",
+    "name": "Universal Health Services",
+    "logo_url": "https://assets.parqet.com/logos/symbol/UHS?format=png"
+  },
+  {
+    "ticker": "VLO",
+    "name": "Valero Energy",
+    "logo_url": "https://assets.parqet.com/logos/symbol/VLO?format=png"
+  },
+  {
+    "ticker": "VTR",
+    "name": "Ventas",
+    "logo_url": "https://assets.parqet.com/logos/symbol/VTR?format=png"
+  },
+  {
+    "ticker": "VLTO",
+    "name": "Veralto",
+    "logo_url": "https://assets.parqet.com/logos/symbol/VLTO?format=png"
+  },
+  {
+    "ticker": "VRSN",
+    "name": "Verisign",
+    "logo_url": "https://assets.parqet.com/logos/symbol/VRSN?format=png"
+  },
+  {
+    "ticker": "VRSK",
+    "name": "Verisk Analytics",
+    "logo_url": "https://assets.parqet.com/logos/symbol/VRSK?format=png"
+  },
+  {
+    "ticker": "VZ",
+    "name": "Verizon",
+    "logo_url": "https://assets.parqet.com/logos/symbol/VZ?format=png"
+  },
+  {
+    "ticker": "VRTX",
+    "name": "Vertex Pharmaceuticals",
+    "logo_url": "https://assets.parqet.com/logos/symbol/VRTX?format=png"
+  },
+  {
+    "ticker": "VRT",
+    "name": "Vertiv",
+    "logo_url": "https://assets.parqet.com/logos/symbol/VRT?format=png"
+  },
+  {
+    "ticker": "VTRS",
+    "name": "Viatris",
+    "logo_url": "https://assets.parqet.com/logos/symbol/VTRS?format=png"
+  },
+  {
+    "ticker": "VICI",
+    "name": "Vici Properties",
+    "logo_url": "https://assets.parqet.com/logos/symbol/VICI?format=png"
+  },
+  {
+    "ticker": "V",
+    "name": "Visa Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/V?format=png"
+  },
+  {
+    "ticker": "VST",
+    "name": "Vistra Corp.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/VST?format=png"
+  },
+  {
+    "ticker": "VMC",
+    "name": "Vulcan Materials Company",
+    "logo_url": "https://assets.parqet.com/logos/symbol/VMC?format=png"
+  },
+  {
+    "ticker": "WRB",
+    "name": "W. R. Berkley Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/WRB?format=png"
+  },
+  {
+    "ticker": "GWW",
+    "name": "W. W. Grainger",
+    "logo_url": "https://assets.parqet.com/logos/symbol/GWW?format=png"
+  },
+  {
+    "ticker": "WAB",
+    "name": "Wabtec",
+    "logo_url": "https://assets.parqet.com/logos/symbol/WAB?format=png"
+  },
+  {
+    "ticker": "WMT",
+    "name": "Walmart",
+    "logo_url": "https://assets.parqet.com/logos/symbol/WMT?format=png"
+  },
+  {
+    "ticker": "DIS",
+    "name": "Walt Disney Company (The)",
+    "logo_url": "https://assets.parqet.com/logos/symbol/DIS?format=png"
+  },
+  {
+    "ticker": "WBD",
+    "name": "Warner Bros. Discovery",
+    "logo_url": "https://assets.parqet.com/logos/symbol/WBD?format=png"
+  },
+  {
+    "ticker": "WM",
+    "name": "Waste Management",
+    "logo_url": "https://assets.parqet.com/logos/symbol/WM?format=png"
+  },
+  {
+    "ticker": "WAT",
+    "name": "Waters Corporation",
+    "logo_url": "https://assets.parqet.com/logos/symbol/WAT?format=png"
+  },
+  {
+    "ticker": "WEC",
+    "name": "WEC Energy Group",
+    "logo_url": "https://assets.parqet.com/logos/symbol/WEC?format=png"
+  },
+  {
+    "ticker": "WFC",
+    "name": "Wells Fargo",
+    "logo_url": "https://assets.parqet.com/logos/symbol/WFC?format=png"
+  },
+  {
+    "ticker": "WELL",
+    "name": "Welltower",
+    "logo_url": "https://assets.parqet.com/logos/symbol/WELL?format=png"
+  },
+  {
+    "ticker": "WST",
+    "name": "West Pharmaceutical Services",
+    "logo_url": "https://assets.parqet.com/logos/symbol/WST?format=png"
+  },
+  {
+    "ticker": "WDC",
+    "name": "Western Digital",
+    "logo_url": "https://assets.parqet.com/logos/symbol/WDC?format=png"
+  },
+  {
+    "ticker": "WY",
+    "name": "Weyerhaeuser",
+    "logo_url": "https://assets.parqet.com/logos/symbol/WY?format=png"
+  },
+  {
+    "ticker": "WSM",
+    "name": "Williams-Sonoma, Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/WSM?format=png"
+  },
+  {
+    "ticker": "WMB",
+    "name": "Williams Companies",
+    "logo_url": "https://assets.parqet.com/logos/symbol/WMB?format=png"
+  },
+  {
+    "ticker": "WTW",
+    "name": "Willis Towers Watson",
+    "logo_url": "https://assets.parqet.com/logos/symbol/WTW?format=png"
+  },
+  {
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/WDAY?format=png"
+  },
+  {
+    "ticker": "WYNN",
+    "name": "Wynn Resorts",
+    "logo_url": "https://assets.parqet.com/logos/symbol/WYNN?format=png"
+  },
+  {
+    "ticker": "XEL",
+    "name": "Xcel Energy",
+    "logo_url": "https://assets.parqet.com/logos/symbol/XEL?format=png"
+  },
+  {
+    "ticker": "XYL",
+    "name": "Xylem Inc.",
+    "logo_url": "https://assets.parqet.com/logos/symbol/XYL?format=png"
+  },
+  {
+    "ticker": "YUM",
+    "name": "Yum! Brands",
+    "logo_url": "https://assets.parqet.com/logos/symbol/YUM?format=png"
+  },
+  {
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ZBRA?format=png"
+  },
+  {
+    "ticker": "ZBH",
+    "name": "Zimmer Biomet",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ZBH?format=png"
+  },
+  {
+    "ticker": "ZTS",
+    "name": "Zoetis",
+    "logo_url": "https://assets.parqet.com/logos/symbol/ZTS?format=png"
+  }
+]
