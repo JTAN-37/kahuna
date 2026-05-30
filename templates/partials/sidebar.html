@@ -1,4 +1,6 @@
-<aside class="sidebar">
+<aside class="sidebar" id="sidebar">
+  <button class="sidebar-toggle" id="sidebar-toggle" onclick="toggleSidebar()" title="Collapse sidebar">&#x2039;</button>
+  <div class="sidebar-inner" id="sidebar-inner">
   <div class="sidebar-label">Tabs</div>
   <button class="sidebar-add-tab" onclick="addNewTab()">+ Add Tab</button>
   <div class="sidebar-tabs" id="sidebar-tabs">
@@ -16,8 +18,36 @@
         <span class="sidebar-tab-ticker">{{ stock.ticker }}</span>
         <span class="sidebar-tab-name">{{ stock.name }}</span>
       </div>
-      <button class="sidebar-tab-close" onclick="closeTab(event, '{{ stock.ticker }}')" title="Close">&#x2715;</button>
+      <span class="sidebar-tab-pinned-icon {% if stock.pinned %}visible{% endif %}">
+        <svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="12" y1="17" x2="12" y2="22"/>
+          <path d="M5 17h14v-1.76a2 2 0 0 0-1.11-1.79l-1.78-.9A2 2 0 0 1 15 10.76V6h1a2 2 0 0 0 0-4H8a2 2 0 0 0 0 4h1v4.76a2 2 0 0 1-1.11 1.79l-1.78.9A2 2 0 0 0 5 15.24Z"/>
+        </svg>
+      </span>
+      <button class="sidebar-tab-menu-btn" onclick="toggleTabMenu(event, '{{ stock.ticker }}')" title="Options">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
+          <circle cx="12" cy="5" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="12" cy="19" r="2"/>
+        </svg>
+      </button>
     </div>
     {% endfor %}
   </div>
+  </div>
 </aside>
+
+<div class="tab-dropdown" id="tab-dropdown" hidden>
+  <button class="tab-dropdown-item" id="tab-menu-pin" onclick="menuPinTab()">
+    <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <line x1="12" y1="17" x2="12" y2="22"/>
+      <path d="M5 17h14v-1.76a2 2 0 0 0-1.11-1.79l-1.78-.9A2 2 0 0 1 15 10.76V6h1a2 2 0 0 0 0-4H8a2 2 0 0 0 0 4h1v4.76a2 2 0 0 1-1.11 1.79l-1.78.9A2 2 0 0 0 5 15.24Z"/>
+    </svg>
+    <span id="tab-menu-pin-label">Pin tab</span>
+  </button>
+  <button class="tab-dropdown-item tab-dropdown-delete" onclick="menuDeleteTab()">
+    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="3 6 5 6 21 6"/>
+      <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2"/>
+    </svg>
+    Delete tab
+  </button>
+</div>

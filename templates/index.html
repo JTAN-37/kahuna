@@ -22,7 +22,7 @@
 <body>
 
   <nav class="navbar">
-    <span class="navbar-title">Kahuna</span>
+    <a class="navbar-title" href="{{ url_for('index') }}" onclick="if(typeof addNewTab==='function'){addNewTab();return false;}">Kahuna</a>
   </nav>
 
   <div class="content-wrapper">
