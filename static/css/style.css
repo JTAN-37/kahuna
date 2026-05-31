@@ -34,6 +34,56 @@ body {
   cursor: pointer;
 }
 
+.navbar-search {
+  margin-left: 24px;
+  flex: 1;
+  max-width: 360px;
+}
+
+.navbar-search .autocomplete-wrapper {
+  width: 100%;
+  position: relative;
+}
+
+.navbar-search .ticker-input {
+  width: 100%;
+  height: 36px;
+  font-size: 14px;
+  padding-left: 34px;
+  padding-right: 38px;
+}
+
+.navbar-search-icon {
+  position: absolute;
+  left: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #aaa;
+  pointer-events: none;
+}
+
+.navbar-search-btn {
+  position: absolute;
+  right: 6px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #aaa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px;
+  border-radius: 4px;
+  transition: background 0.12s, color 0.12s;
+}
+
+.navbar-search-btn:hover {
+  background: #f0f0f0;
+  color: #333;
+}
+
 /* ── Content wrapper ── */
 .content-wrapper {
   display: flex;
@@ -285,7 +335,7 @@ body {
 .main-content.has-stocks {
   justify-content: flex-start;
   align-items: stretch;
-  padding: 24px 32px;
+  padding: 6px 32px 24px;
   gap: 0;
 }
 
@@ -322,14 +372,6 @@ body {
 .search-area.top {
   align-items: flex-start;
   text-align: left;
-  margin-bottom: 24px;
-}
-
-.search-area form {
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  justify-content: center;
 }
 
 @keyframes fadeIn {
@@ -426,26 +468,11 @@ body {
   text-overflow: ellipsis;
 }
 
-/* ── Submit button ── */
-.submit-btn {
-  height: 40px;
-  padding: 0 20px;
-  background: #111111;
-  color: #ffffff;
-  border: none;
-  border-radius: 6px;
-  font-size: 15px;
-  font-weight: 500;
-  cursor: pointer;
-  transition: background 0.15s;
-  flex-shrink: 0;
-}
-
-.submit-btn:hover {
-  background: #333333;
-}
-
 /* ── Error banner ── */
+.search-area.top .error-banner {
+  margin-bottom: 16px;
+}
+
 .error-banner {
   background: #fff0f0;
   border: 1px solid #f5c2c2;
