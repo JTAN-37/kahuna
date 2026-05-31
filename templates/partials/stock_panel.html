@@ -66,6 +66,34 @@
       </div>
     </section>
 
+    <div class="analysis-card">
+      <h2 class="analysis-title">AI Financial Analysis</h2>
+      <div class="panel-tabs">
+        <button class="panel-tab active" onclick="switchPanelTab(this, 'tab-overall-{{ stock.ticker }}')">Overall</button>
+        <button class="panel-tab" onclick="switchPanelTab(this, 'tab-income-{{ stock.ticker }}')">Income Statement</button>
+        <button class="panel-tab" onclick="switchPanelTab(this, 'tab-balance-{{ stock.ticker }}')">Balance Sheet</button>
+        <button class="panel-tab" onclick="switchPanelTab(this, 'tab-cashflow-{{ stock.ticker }}')">Cash Flow</button>
+      </div>
+
+      <div class="panel-tab-content active" id="tab-overall-{{ stock.ticker }}">
+        <div class="analysis-body" id="analysis-body-{{ stock.ticker }}">
+          <span class="analysis-loading">Generating analysis…</span>
+        </div>
+      </div>
+
+      <div class="panel-tab-content" id="tab-income-{{ stock.ticker }}">
+        <p class="panel-placeholder">Coming soon</p>
+      </div>
+
+      <div class="panel-tab-content" id="tab-balance-{{ stock.ticker }}">
+        <p class="panel-placeholder">Coming soon</p>
+      </div>
+
+      <div class="panel-tab-content" id="tab-cashflow-{{ stock.ticker }}">
+        <p class="panel-placeholder">Coming soon</p>
+      </div>
+    </div>
+
   </div>
   {% endfor %}
 </div>

@@ -75,6 +75,15 @@ document.addEventListener('click', (e) => {
   }
 });
 
+// ── Panel tabs (Overall / Income Statement / etc.) ────────────────────────────
+function switchPanelTab(btn, panelId) {
+  const stockPanel = btn.closest('.stock-panel');
+  stockPanel.querySelectorAll('.panel-tab').forEach(t => t.classList.remove('active'));
+  stockPanel.querySelectorAll('.panel-tab-content').forEach(p => p.classList.remove('active'));
+  btn.classList.add('active');
+  document.getElementById(panelId)?.classList.add('active');
+}
+
 // ── Tab operations ────────────────────────────────────────────────────────────
 function switchToStock(ticker) {
   dom.mainContent.classList.remove('new-tab-mode');
@@ -88,6 +97,7 @@ function switchToStock(ticker) {
     renderChart(ticker, 'today');
     updateChartTitle(ticker, 'today');
   }
+  analyzeStock(ticker);
 }
 
 function deleteTab(ticker) {

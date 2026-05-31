@@ -19,5 +19,6 @@ document.addEventListener('DOMContentLoaded', () => {
   if (active) {
     renderChart(active, 'today');
     updateChartTitle(active, 'today');
+    analyzeStock(active);
   }
 });

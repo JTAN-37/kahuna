@@ -20,6 +20,10 @@ function renderChart(ticker, period) {
   if (!canvas) return;
   if (chartInstances[ticker]) chartInstances[ticker].destroy();
   const { labels, prices } = buildChartData(stock, period);
+  const up = prices.length === 0 || prices[prices.length - 1] >= prices[0];
+  const lineColor = up ? '#16a34a' : '#dc2626';
+  const fillColor = up ? 'rgba(22,163,74,0.08)' : 'rgba(220,38,38,0.08)';
+
   chartInstances[ticker] = new Chart(canvas, {
     type: 'line',
     data: {
@@ -27,8 +31,8 @@ function renderChart(ticker, period) {
       datasets: [{
         label: ticker + ' Price',
         data: prices,
-        borderColor: '#111111',
-        backgroundColor: 'rgba(17,17,17,0.06)',
+        borderColor: lineColor,
+        backgroundColor: fillColor,
         borderWidth: 2,
         pointRadius: 0,
         pointHoverRadius: 4,

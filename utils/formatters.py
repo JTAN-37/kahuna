@@ -1,12 +1,8 @@
-def register_filters(app):
-    app.add_template_filter(fmt_price, "fmt_price")
-    app.add_template_filter(fmt_cap, "fmt_cap")
-    app.add_template_filter(fmt_pe, "fmt_pe")
-
 def fmt_price(v):
     if v is None:
         return "N/A"
     return f"${v:,.2f}"
+
 
 def fmt_cap(v):
     if v is None:
@@ -24,3 +20,9 @@ def fmt_pe(v):
     if v is None:
         return "N/A"
     return f"{v:.2f}x"
+
+
+def register_filters(app):
+    app.add_template_filter(fmt_price, "fmt_price")
+    app.add_template_filter(fmt_cap, "fmt_cap")
+    app.add_template_filter(fmt_pe, "fmt_pe")

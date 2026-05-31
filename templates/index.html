@@ -6,6 +6,7 @@
   <title>Kahuna</title>
   <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked@9/marked.min.js" defer></script>
   <script>
     window.KAHUNA = {
       sp500:  {{ sp500  | tojson }},
@@ -17,6 +18,7 @@
   <script src="{{ url_for('static', filename='js/charts.js') }}" defer></script>
   <script src="{{ url_for('static', filename='js/tabs.js') }}" defer></script>
   <script src="{{ url_for('static', filename='js/autocomplete.js') }}" defer></script>
+  <script src="{{ url_for('static', filename='js/analysis.js') }}" defer></script>
   <script src="{{ url_for('static', filename='js/main.js') }}" defer></script>
 </head>
 <body>
