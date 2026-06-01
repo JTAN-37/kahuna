@@ -4,28 +4,55 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Running the App
 
+### Backend (FastAPI)
 ```bash
-# Activate virtual environment (always required)
 source venv/bin/activate
-
-# Install / sync dependencies
 pip install -r requirements.txt
+python -m backend.main
+# → http://127.0.0.1:8000
+```
 
-# Start development server (auto-reloads on file save)
-python app.py
-# → http://127.0.0.1:5000
+### Frontend (React + Vite)
+```bash
+cd frontend
+npm install
+npm run dev
+# → http://localhost:5173  (proxies /api to :8000)
+```
+
+Run both servers simultaneously during development.
+
+### Production build
+```bash
+cd frontend && npm run build
+# FastAPI serves frontend/dist automatically at http://localhost:8000
 ```
 
 ## Architecture
 
-Single-file Flask app (`app.py`) with Jinja2 templates and plain CSS. No build step, no bundler, no JavaScript framework.
+FastAPI backend + React 18 / Vite frontend. No SSR.
 
-- `app.py` — route definitions and any server-side data logic
-- `templates/index.html` — single Jinja2 template; all UI lives here
-- `static/css/style.css` — all styles; flexbox-based layout (column body → row sidebar+main)
+**Backend** (`backend/`)
+- `main.py` — FastAPI app, mounts `frontend/dist` for production
+- `routers/stocks.py` — `GET /api/sp500`, `GET /api/stock/{ticker}`
+- `routers/analysis.py` — `GET /api/analyze/{ticker}` (streaming)
+- `services/analysis.py` — Anthropic streaming with prompt caching
+- `services/sp500.py` — loads S&P 500 list from `data/sp500.json`
+- `utils/tickers.py` — `normalize_ticker`, `logo_url_for`
+- All yfinance calls wrapped in `run_in_executor` (blocking → async)
 
-**Layout structure:** `body (flex col)` → navbar (fixed height) + `content-wrapper (flex row)` → sidebar (fixed 220 px) + main (flex 1).
+**Frontend** (`frontend/src/`)
+- `main.jsx` — QueryClient config, app mount
+- `App.jsx` — layout shell
+- `components/` — Navbar, Sidebar, SidebarTab, StockPanel, StockChart, AnalysisCard, StockLogo, Icons
+- `hooks/` — useSP500, useStockData, useAnalysis
+- `store/watchlist.js` — Zustand: tickers, activeTicker, pinnedTickers, sidebarOpen
+- `utils/formatters.js` — fmtPrice, fmtCap, fmtPE
+
+**Layout:** `body (flex col)` → navbar + `content-wrapper (flex row)` → sidebar (220px) + main (flex 1).
 
 ## Dependencies
 
-Add new packages to `requirements.txt` and `pip install -r requirements.txt`. The `venv/` directory is local and should not be committed.
+Python: add to `requirements.txt` and `pip install -r requirements.txt`.
+Node: `cd frontend && npm install <pkg>`.
+The `venv/` and `frontend/node_modules/` directories are local and not committed.

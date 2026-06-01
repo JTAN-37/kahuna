@@ -9,13 +9,12 @@ import sys
 from io import StringIO
 from pathlib import Path
 
-# Allow imports from the project root (utils/)
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 import pandas as pd
 import requests
 
-from utils.tickers import normalize_ticker, logo_url_for
+from backend.utils.tickers import normalize_ticker
 
 _WIKI_URL = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
 _WIKI_HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; kahuna-stock-app/1.0)"}
@@ -30,7 +29,6 @@ def fetch() -> list[dict]:
         {
             "ticker": normalize_ticker(row["Symbol"]),
             "name": str(row["Security"]).strip(),
-            "logo_url": logo_url_for(row["Symbol"]),
         }
         for _, row in df.iterrows()
     ]

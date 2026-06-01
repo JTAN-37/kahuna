@@ -1,0 +1,136 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: linear-gradient(160deg, #f0f0f0 0%, #e4e4e4 100%);
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 0;
+}
+
+.content-wrapper {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  overflow: hidden;
+}
+
+/* ── Main content ── */
+.main-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  overflow-y: auto;
+}
+
+.main-content.has-stocks {
+  justify-content: flex-start;
+  align-items: stretch;
+  padding: 16px 32px 24px;
+  gap: 0;
+}
+
+
+.main-content.new-tab-mode {
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}
+
+.main-content.new-tab-mode .stock-panels {
+  display: none;
+}
+
+.main-content.has-stocks .stock-panels {
+  flex: 1;
+}
+
+/* ── Stock panels ── */
+.stock-panel {
+  display: none;
+}
+
+.stock-panel.active {
+  display: block;
+}
+
+/* ── Empty state ── */
+.search-area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  text-align: center;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.logo-placeholder {
+  font-size: 72px;
+  font-weight: 700;
+  color: #111111;
+  line-height: 1;
+  animation: fadeIn 1.2s ease forwards;
+}
+
+.prompt-text {
+  font-size: 18px;
+  color: #444444;
+  font-weight: 400;
+  animation: fadeIn 1.2s ease forwards;
+}
+
+/* ── Shared: loading / error states ── */
+.analysis-loading {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #111;
+  font-size: 13px;
+}
+
+.analysis-spinner {
+  width: 16px;
+  height: 16px;
+  border: 2px solid #e8e8e8;
+  border-top-color: #999;
+  border-radius: 50%;
+  animation: spin 0.75s linear infinite;
+  flex-shrink: 0;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+.analysis-error {
+  color: #c0392b;
+  font-size: 13px;
+}
+
+/* ── Shared icon utilities ── */
+.chevron-icon {
+  flex-shrink: 0;
+  transition: transform 0.15s ease;
+}
+
+.chevron-icon--closed {
+  transform: rotate(-90deg);
+}
